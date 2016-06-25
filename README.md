@@ -1,4 +1,4 @@
-# publish your resource  to make money
+# publish your resource
 
 1.smacheng:visit  http://www.51jisuonline.com
 
