@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SystemConfig>
+    <developMode>false</developMode>
+    <defaultPassword>123456</defaultPassword>
+    <assetsUrl>//assets.lockbur.com</assetsUrl>
+    <solrServer>http://localhost:9090/solr</solrServer>
+    <defaultStorageHost>//imgs1.lockbur.com</defaultStorageHost>
+    <features>
+        <dimPrivacy>true</dimPrivacy>
+        <enableSMS>false</enableSMS>
+        <enableLogin>true</enableLogin>
+    </features>
+</SystemConfig>
